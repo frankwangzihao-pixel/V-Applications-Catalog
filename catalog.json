@@ -8,8 +8,8 @@
       "version": "",
       "versionCode": 0,
       "minSdk": 26,
-      "apkUrl": "",
-      "sha256": ""
+      "apkUrl": "https://github.com/frankwangzihao-pixel/V-Network-Lab/releases/download/v0.1.0/V-Network-Lab-v0.1.0.apk",
+      "sha256": "e977b656f804ac6ba7760f8aea26cdf43a523a9907acba85daeca069fdd834e"
     },
     {
       "id": "files",
