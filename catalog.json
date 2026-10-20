@@ -1,3 +1,48 @@
 {
-  "apps": []
+  "apps": [
+    {
+      "id": "network",
+      "name": "V Network Lab",
+      "description": "网络诊断与监控",
+      "packageName": "com.vapplications.network",
+      "version": "",
+      "versionCode": 0,
+      "minSdk": 26,
+      "apkUrl": "",
+      "sha256": ""
+    },
+    {
+      "id": "files",
+      "name": "V File Manager",
+      "description": "文件管理与整理",
+      "packageName": "com.vapplications.files",
+      "version": "",
+      "versionCode": 0,
+      "minSdk": 26,
+      "apkUrl": "",
+      "sha256": ""
+    },
+    {
+      "id": "converter",
+      "name": "V Converter",
+      "description": "万能格式转换",
+      "packageName": "com.vapplications.converter",
+      "version": "",
+      "versionCode": 0,
+      "minSdk": 26,
+      "apkUrl": "",
+      "sha256": ""
+    },
+    {
+      "id": "developer",
+      "name": "V Developer Toolkit",
+      "description": "开发者工具箱",
+      "packageName": "com.vapplications.developer",
+      "version": "",
+      "versionCode": 0,
+      "minSdk": 26,
+      "apkUrl": "",
+      "sha256": ""
+    }
+  ]
 }
