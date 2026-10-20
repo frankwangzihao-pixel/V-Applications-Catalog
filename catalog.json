@@ -5,8 +5,8 @@
       "name": "V Network Lab",
       "description": "网络诊断与监控",
       "packageName": "com.vapplications.network",
-      "version": "",
-      "versionCode": 0,
+      "version": "0.1.0",
+      "versionCode": 1,
       "minSdk": 26,
       "apkUrl": "https://github.com/frankwangzihao-pixel/V-Network-Lab/releases/download/v0.1.0/V-Network-Lab-v0.1.0.apk",
       "sha256": "e977b656f804ac6ba7760f8aea26cdf43a523a9907acba85daeca069fdd834e"
