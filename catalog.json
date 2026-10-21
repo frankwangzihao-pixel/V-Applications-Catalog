@@ -16,11 +16,11 @@
       "name": "V File Manager",
       "description": "文件管理与整理",
       "packageName": "com.vapplications.files",
-      "version": "",
-      "versionCode": 0,
+      "version": "0.3.0",
+      "versionCode": 3,
       "minSdk": 26,
-      "apkUrl": "",
-      "sha256": ""
+      "apkUrl": "https://github.com/frankwangzihao-pixel/V-File-Manager/releases/download/v0.3.0/V-File-Manager-v0.3.0.apk",
+      "sha256": "89a264081ae8aa60461e4d1791651881479eb16cf80427f3d59a3a2afc657b40"
     },
     {
       "id": "converter",
